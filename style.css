@@ -1,7 +1,8 @@
-logo{
-    font-size: 40px;
+#logo{
+    font-size: 50px;
     font: bold;
     font-family: 'Times New Roman';
+    color:rgba(124, 50, 150, 4)
 }
 a{
     margin-right: 150px;
@@ -16,7 +17,8 @@ body{
     background-size: cover;
 }
 #heading1{
-    font-size: 40px;
+    text-align: center;
+    font-size: 30px;
     padding-top: 140px;
     height: 20px;
 
@@ -25,6 +27,8 @@ h1{
     text-align: center;
     font-size: 80px;
     padding-top: 90;
+    font-style: italic;
+    color:aqua;
 
 }
 h2{
@@ -33,6 +37,3 @@ h2{
         text-align: center;
 
 }
-
-
-
